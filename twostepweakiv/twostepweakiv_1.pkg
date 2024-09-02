@@ -1,4 +1,4 @@
-d 'twostepweakiv_1': Two-step weak-instrument-robust confidence sets for linear instrumental-variable (IV) models Use twostepweakiv_1 With STATA 18
+d 'twostepweakiv': Two-step weak-instrument-robust confidence sets for linear instrumental-variable (IV) models Use twostepweakiv With STATA 18
 d
 f avar.ado
 f avar.sthlp
