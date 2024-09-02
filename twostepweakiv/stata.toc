@@ -3,3 +3,4 @@
 2
 3
 p twostepweakiv Two-step weak-instrument-robust confidence sets for linear instrumental-variable (IV) models Use twostepweakiv With STATA 18
+p twostepweakiv2 Two-step weak-instrument-robust confidence sets for linear instrumental-variable (IV) models Use twostepweakiv2 With STATA 18
