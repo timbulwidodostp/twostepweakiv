@@ -3,6 +3,8 @@ Two-step weak-instrument-robust confidence sets for linear instrumental-variable
 
 Valid two-step identification-robust confidence sets for instrumental-variable (IV) estimation of linear model Use twostepweakiv With STATA 18
 
+https://www.youtube.com/watch?v=LouSAcg9PPM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
